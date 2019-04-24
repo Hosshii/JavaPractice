@@ -77,6 +77,10 @@ public class Main {
     //public void test(){};
     public String test(){return "";}
 
+    public void issue1(){
+        System.out.println("gitでissue/1を追加しました");
+    }
+
 
 
 
